@@ -2,7 +2,7 @@
 
 ```javascript
 "Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡"
-"Atualmente graduado em Ciência da Computação na Faculdade Integradas Bauru, desenvolvedor na HCosta 💬"
+"Atualmente graduado em Ciência da Computação na Faculdade Integradas Bauru, desenvolvedor na Yank Solutions 💬"
 ```
 
 <div align="center">
